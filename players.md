@@ -2,9 +2,8 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-player_1                  | 0      | 1      | ensign          |
-player_2                  | 0      | 1      | ensign          |
-player_3                  | 0      | 1      | ensign          |
+stolksdorf                | 0      | 1      | ensign          |
+
 
 ---
 
@@ -19,9 +18,9 @@ _none_                    |        |        |                 |
 
 
 ### moderators
-- player_2
-- player_3
+- stolksdorf
+- CapnMadrick
 
 
 ### arbiter
-- player_0
+- ktrain
