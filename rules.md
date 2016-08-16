@@ -46,4 +46,4 @@
 
 
 #### 107: Rule of Completion
-> This game ends on September 1st 2016, midnight.
+> This game ends on September 15th 2016, midnight.
