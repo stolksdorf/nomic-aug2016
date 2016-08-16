@@ -4,7 +4,7 @@ Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
 stolksdorf                | 0      | 1      | ensign          |
 CapnMadrick               | 0      | 1      | ensign          |
-Meggeroni                 | 0      | 1      | ensign          |
+Meggeroni                 | 0      | 1      | birdmaster      |
 Chris                     | 0      | 1      | ensign          |
 Katie                     | 0      | 1      | ensign          |
 ---
