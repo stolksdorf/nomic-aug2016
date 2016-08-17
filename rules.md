@@ -13,8 +13,6 @@
 
 
 
-
-
 #### 103: Player Status
 > A player has a status that is `active` or `inactive`. A player may submit an amendment to change their own status at any time that is considered approved immediately upon submitting.
 >
@@ -24,7 +22,7 @@
 
 
 #### 104: Rule of Amendment 
-> An active player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have two amendments open for voting and discussion at a time. The amendments may not be edited once they are submitted for voting and discussion. A player may close their amendments at any time. 
+> An active player may submit an amendment<sup>1</sup> to the rules, or to their own title, at any time. A player may only have two amendments open for voting and discussion at a time. The amendments may not be edited once they are submitted for voting and discussion. A player may close their amendments at any time. 
 
 [<sup>1. How to propose</sup>](./readme.md#propose-a-rule-amendment)
 
@@ -47,3 +45,4 @@
 
 #### 107: Rule of Completion
 > This game ends on September 15th 2016, midnight.
+
