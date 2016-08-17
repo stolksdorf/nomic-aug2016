@@ -36,8 +36,8 @@
 
 [<sup>1. How to vote</sup>](./readme.md#comment-and-vote-on-amendments)
 
-
-
+#### 105-B: Liberum Veto Cito
+> Once an amendment has received at least two votes, and 24 hours has passed since its initial proposal, a number of votes equal to the total number of active players less one is required for it to be approved. This rule does not apply if a dissenting vote is cast on the amendment within the initial 24 hour period.
 
 #### 106: Lex Anterior Derogat Priori
 > If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
