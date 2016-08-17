@@ -24,7 +24,7 @@
 
 
 #### 104: Rule of Amendment 
-> An active player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have one amendment open for voting and discussion at a time. The amendment may not be edited once it is submitted for voting and discussion. A player may close their amendment at any time. 
+> An active player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have two amendments open for voting and discussion at a time. The amendments may not be edited once they are submitted for voting and discussion. A player may close their amendments at any time. 
 
 [<sup>1. How to propose</sup>](./readme.md#propose-a-rule-amendment)
 
