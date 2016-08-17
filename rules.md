@@ -31,8 +31,14 @@
 
 
 
-#### 105: Liberum Veto
-> An amendment is approved if and only if the vote<sup>1</sup> is unanimous among the active players.
+#### 105: Tiered Voting
+
+An amendment's voting approval<sup>1</sup> is based on it's ordinal number based on the following guidelines:
+
+- A rule numbered 000 to 099 requires unanimous votes among the active players.
+- A rule numbered 100 to 199 requires at least 80% majority votes among the active players.
+- A rule numbered 200 to 299 requires at least 50% majority votes among the active players.
+- A rule numbered 300 to 399 requires a single vote from an active player who is 1) not the submitter of the rule and 2) has at least 5 vetoes.
 
 [<sup>1. How to vote</sup>](./readme.md#comment-and-vote-on-amendments)
 
