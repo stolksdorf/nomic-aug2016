@@ -47,3 +47,9 @@
 
 #### 107: Rule of Completion
 > This game ends on September 15th 2016, midnight.
+
+
+
+
+#### 110: Victoria Magnum
+> Each time a player who has proposed an amendment has that amendment successfully approved, they immediately receive one "high five" from player CapnMadrick. This "high five" is a resource separate from points. A "high five" cannot be lost, stolen, returned, or given to any other player. A "High five" may be traded between two players for any type of resource if the players involved both agree to the trade.
