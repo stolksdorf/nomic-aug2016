@@ -25,7 +25,7 @@
 
 #### 104: Rule of Amendment 
 > An active player may submit an amendment<sup>1</sup> to the rules at any time. A player may only have two amendments open for voting and discussion at a time. The amendments may not be edited once they are submitted for voting and discussion. A player may close their amendments at any time. 
-
+> If a proposed amendment is successful, the player who proposed the amendment receives 2 points. However, if a successfully proposed amendment would take the proposing player to 100 or more points, the success of that amandment instead reduses the player who proposed the amendment to 0 points.
 [<sup>1. How to propose</sup>](./readme.md#propose-a-rule-amendment)
 
 
