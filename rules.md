@@ -47,3 +47,6 @@
 
 #### 107: Rule of Completion
 > This game ends on September 15th 2016, midnight.
+
+#### 108: Donum Pietatis
+> A player who has one of their proposed amendments fail to gain approval for a fourth consecutive time will immediately gain one veto. Upon receiving this veto, they cannot gain another veto this way until another four proposed amendments fail to gain approval.
